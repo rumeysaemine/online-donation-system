@@ -1,7 +1,7 @@
 # Online Bağış Sistemi
 Yardım Eli; PHP, MySQL, Html, BootStrap kullanılarak geliştirilmiş online bağış sistemidir. [Buraya](httponlinedonation.eu5.org) tıklayarak siteye ulaşabilirsiniz.
 ## KURULUM
-1) Önce **Code** butonuna daha sonra **Download ZIP**'e tıklayarak zip dosyasını indirin.
+1) Önce yukarıdaki **Code** butonuna daha sonra **Download ZIP**'e tıklayarak zip dosyasını indirin.
 2) İndirdiğiniz zip dosyasında bulunan **online-donation** dosyasını bilgisayarınızdaki **C:\xampp\htdocs** klasörüne aktarın.
 3) Aktardıktan sonra **online-donation** içerisindeki **ayarlar.php** dosyasında tanımlanan değişkenlerin kendi veritabanı bilgilerinizle uyumlu olup olmadığını kontrol edin. 
 4) Web tarayıcınızın adres çubuğuna http://localhost:8000/phpmyadmin/ yazarak phpMyAdmin programını başlatın.
