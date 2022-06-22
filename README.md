@@ -4,10 +4,11 @@ Yardım Eli; PHP, MySQL, Html, BootStrap kullanılarak geliştirilmiş online ba
 1) Önce yukarıdaki **Code** butonuna daha sonra **Download ZIP**'e tıklayarak zip dosyasını indirin.
 2) İndirdiğiniz zip dosyasında bulunan **online-donation** dosyasını bilgisayarınızdaki **C:\xampp\htdocs** klasörüne aktarın.
 3) Aktardıktan sonra **online-donation** içerisindeki **ayarlar.php** dosyasında tanımlanan değişkenlerin kendi veritabanı bilgilerinizle uyumlu olup olmadığını kontrol edin. 
-4) Web tarayıcınızın adres çubuğuna http://localhost:8000/phpmyadmin/ yazarak phpMyAdmin programını başlatın.
-5) phpMyAdmin programı aracılığıyla **387144** adlı veri tabanı oluşturun.
-6) Oluşturduğunuz **387144** adlı veri tabanının içine indirdiğiniz zip dosyasındaki **387144(1).sql** dosyasını aktarın.
-7) Artık tarayıcınızın adres çubuğuna http://localhost:8000/online-donation/ yazarak web sitesine ulaşabilirsiniz.
+4) Daha sonra bilgisayarınızdaki **C:\xampp\xampp-control-exe**'yi çalıştırın. Apache ve MySQL'i başlattığınızdan emin olun.
+5) Web tarayıcınızın adres çubuğuna http://localhost:8000/phpmyadmin/ yazarak phpMyAdmin programını başlatın.
+6) phpMyAdmin programı aracılığıyla **387144** adlı veri tabanı oluşturun.
+7) Oluşturduğunuz **387144** adlı veri tabanının içine indirdiğiniz zip dosyasındaki **387144(1).sql** dosyasını aktarın.
+8) Artık tarayıcınızın adres çubuğuna http://localhost:8000/online-donation/ yazarak web sitesine ulaşabilirsiniz.
 
 ## Site Görüntüleri
 ### Anasayfa
